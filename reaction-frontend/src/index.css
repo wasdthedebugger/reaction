@@ -1,0 +1,10 @@
+:root{
+  --primary-color: #f1db81;
+  --secondary-color: #ff6600;
+  --tertiary-color: #eeb530;
+}
+
+body{
+  margin: 0;
+  background-color: var(--primary-color);
+}

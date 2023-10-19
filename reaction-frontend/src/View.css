@@ -1,0 +1,13 @@
+.view{
+    margin: auto;
+    width: 500px;
+    max-height: 100vh;
+    overflow-y: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.view::-webkit-scrollbar{
+    display: none;
+}
