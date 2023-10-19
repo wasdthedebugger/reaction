@@ -1,4 +1,3 @@
-import './index.css';
 import Header from './Header.jsx';
 import View from './View.jsx';
 import Footer from './Footer.jsx';
